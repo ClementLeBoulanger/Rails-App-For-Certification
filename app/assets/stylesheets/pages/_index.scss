@@ -1,0 +1,8 @@
+// Import page-specific CSS files here.
+@import "home";
+@import "show";
+
+.title-index {
+  font-family: $title;
+  color: $blue;
+}

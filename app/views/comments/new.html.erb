@@ -1,0 +1,11 @@
+<div class="container pt-5 mt-3">
+  <%= render 'shared/back-to-show' %>
+  <div class="content-show border p-4">
+    <div class="form-edit mb-5">
+      <%= simple_form_for [@post, @comment] do |f| %>
+          <%= f.input :content,as: :text, class: "w-100", :input_html => {:style => 'width: 100%', :rows => 5, class: 'response-project'} %>
+          <%= f.button :submit, "Ajouter mon commentaire !", class: "btn btn-primary" %>
+      <% end %>
+    </div>
+  </div>
+</div>
