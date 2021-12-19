@@ -10,6 +10,14 @@ Vous devez créer une plateforme pour publier, commenter ou réagir à un conten
 
 Ici le résultat de 8 heures de developpement reparti sur 2 demi-journées :
 
+## Home Page
+
+![Homepage](https://user-images.githubusercontent.com/84342566/146671786-cdd1b040-9f3a-4e9c-9436-6fe03c00dffb.JPG)
+
+## Index des articles
+
+
+
 
 
 
